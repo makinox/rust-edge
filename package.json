@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/makinox/rust-edge",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vercel": "28.4.12"
+  }
+}
